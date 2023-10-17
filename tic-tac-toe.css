@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Titan+One&display=swap');
 
-:root{
+:root {
   --black: #1a202c;
   --lightGrey: #edf2f7;
   --grey: #cbd5e0;
@@ -8,7 +8,7 @@
   --lighterBlue: #32ABE1;
   --lightBlue: #3182ce;
   --green: #42B883;
-  --defaultFontFamily: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+  --defaultFontFamily: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
 
 body {
